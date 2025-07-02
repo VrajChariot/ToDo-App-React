@@ -31,11 +31,11 @@ ToDo-App-React is a modern, React-based task management application designed to 
 
 This project simplifies task management within larger systems, offering a clean and intuitive interface. The core features include:
 
-*   🧩 **\[Icon: Puzzle Piece\] Task CRUD:** Easily create, edit, delete, and mark tasks as completed.
-*   🎯 **\[Icon: Target\] Persistent State:** Tasks are saved in local storage, ensuring data remains across sessions.
-*   🚦 **\[Icon: Traffic Light\] Filtering Options:** Show or hide completed tasks to stay focused.
-*   ⚙️ **\[Icon: Gear\] Modern Tech Stack:** Built with React, Tailwind CSS, and Vite for optimal performance.
-*   🛠️ **\[Icon: Hammer\] Code Quality:** Enforces best practices with ESLint for consistent, maintainable code.
+*   🧩 **Task CRUD:** Easily create, edit, delete, and mark tasks as completed.
+*   🎯 **Persistent State:** Tasks are saved in local storage, ensuring data remains across sessions.
+*   🚦 **Filtering Options:** Show or hide completed tasks to stay focused.
+*   ⚙️ **Modern Tech Stack:** Built with React, Tailwind CSS, and Vite for optimal performance.
+*   🛠️ **Code Quality:** Enforces best practices with ESLint for consistent, maintainable code.
 
 - - -
 
